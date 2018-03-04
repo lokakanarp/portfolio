@@ -1,0 +1,33 @@
+.wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	flex: 0 1 auto;
+	width: 70%;
+	max-width: 1000px;
+	margin-top: 20%;
+	background-color: #c6ece2;
+	justify-content: space-around;
+	margin-bottom: 5%;
+}
+img {
+	max-width: 100%;
+	padding-top: 0%;
+}
+.img {
+	width: 40%;
+	margin-top: -20%;
+	padding-left: 2%;
+}
+.links {
+	display: flex;
+	flex-wrap: wrap;
+	flex: 0 1 auto;
+	width: 40%;
+	margin: 5% 0 15% 0;
+	padding-left: 2%;
+}
+.pres {
+	flex: 0 1 auto;
+	width: 40%;
+	margin-top: 5%;
+}
